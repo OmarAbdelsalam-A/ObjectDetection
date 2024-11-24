@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "503296421482",
+    "project_id": "corporatica-object-detection",
+    "storage_bucket": "corporatica-object-detection.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503296421482:android:c1706c692ce4e9107aa413",
+        "android_client_info": {
+          "package_name": "com.corporatica.ar_object_detection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA86iZqakVrlb-KAg8HKqHkaBl2gtzgTug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
